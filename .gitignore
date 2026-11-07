@@ -1,0 +1,9 @@
+/dataset/
+/runs/detect/predict/
+**/train_batch*.jpg
+**/val_batch*.jpg
+**/labels.jpg
+*.cache
+*.zip
+__pycache__/
+

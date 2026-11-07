@@ -1,0 +1,8 @@
+# Paths resolve relative to this YAML file; portable after extraction.
+train: dataset/images/train
+val: dataset/images/val
+nc: 3
+names:
+  0: nailong
+  1: naiwa
+  2: feidudu
